@@ -43,6 +43,17 @@ This video introduces Dig4E Imaging in the broader context of the risks and chal
 <a href="https://image.dig4e.com/lessons" style="color: #00274C; font-family: Raleway, Sans-Serif; font-weight: 500; font-size: 2em; position: inline; margin-left: 39%; margin-right: 46%; grid-column: 1; grid-row: 2">Lessons</a>
 <a href="https://image.dig4e.com/assignments" style="color: #00274C; font-family: Raleway, Sans-Serif; font-weight: 500; font-size: 2em; position: inline; margin-left: 39%; margin-right: 46%; grid-column: 2; grid-row: 2">Quizzes</a>
 </div>
+<div style="color: #555555; font-family: Lusitana, Serif; font-weight: 500; font-size: 18px; margin-top: 2em;">
+<p>
+If you <a href="login">log in</a> with your Google account you can track progress,
+earn badges, and use autograded quizzes on this site.
+</p>
+<p>
+We take your privacy seriously. Please review our
+<a href="privacy">Privacy Policy</a> and
+<a href="service">Terms of Service</a>.
+</p>
+</div>
 <?php if ( isset($_SESSION['id']) ) { ?>
 <ul>
 <li>
@@ -50,7 +61,6 @@ This video introduces Dig4E Imaging in the broader context of the risks and chal
 </ul>
 <?php } else { ?>
 <?php } ?>
-</p>
 <!--
 <?php
 echo("IP Address: ".Net::getIP()."\n");
