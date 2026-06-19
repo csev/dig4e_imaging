@@ -79,7 +79,7 @@
             "href" : "www.google.com"
         }
     ],
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: Vision Stuff",
         "launch" : "tsugi/tool/gift/?quiz=01.txt",
@@ -146,7 +146,7 @@
             "href" : "https://www.google.com"
         }
     ],    
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: Lesson 2 Unit Quiz",
         "launch" : "tsugi/tool/gift/?quiz=03.txt",
@@ -205,7 +205,7 @@
             "href": "http://www.graphicsatlas.org/"
         }
     ], 
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: Hosting and Validation",
         "launch" : "tsugi/tool/gift/",
@@ -273,7 +273,7 @@
             "href" : "www.google.com"
         }
     ], 
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: Styling Syntax and Theory",
         "launch" : "tsugi/tool/gift/",
@@ -345,7 +345,7 @@
             "href" : "www.google.com"
         }
     ], 
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: Review (OPTIONAL)",
         "launch" : "tsugi/tool/gift/",
@@ -481,7 +481,7 @@
             "href" : "www.google.com"
         }
     ], 
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Peer-graded Assignment",
         "launch" : "tsugi/tool/peer-grade/",
@@ -540,7 +540,7 @@
             "href" : "www.google.com"
         }
     ], 
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: Week 1",
         "launch" : "tsugi/tool/gift/",
@@ -619,7 +619,7 @@
             "href" : "www.google.com"
         }
     ], 
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Peer-graded Assignment",
         "launch" : "tsugi/tool/peer-grade/",
@@ -695,7 +695,7 @@
             "href" : "www.google.com"
         }
     ], 
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: JavaScript Review",
         "launch" : "tsugi/tool/gift/",
@@ -754,7 +754,7 @@
             "href" : "www.google.com"
         }
     ], 
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Peer-graded Assignment",
         "launch" : "tsugi/tool/peer-grade/",
@@ -829,7 +829,7 @@
             "href" : "www.google.com"
         }
     ], 
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Quiz: Basic Concepts in Responsive Design Approaches",
         "launch" : "tsugi/tool/peer-grade/",
@@ -912,7 +912,7 @@
             "href" : "www.google.com"
         }
     ], 
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Peer-graded Assignment",
         "launch" : "tsugi/tool/peer-grade/",
@@ -988,7 +988,7 @@
             "href" : "www.google.com"
         }
     ], 
-    "lti" : [
+    "xlti" : [
         {
         "title" : "Peer-graded Assignment",
         "launch" : "tsugi/tool/peer-grade/",
